@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Igor 👋
 
-<!--
-**igoradriano/igoradriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst transitioning into **AI Systems Engineering**.
 
-Here are some ideas to get you started:
+I work with **data, analytics and BigQuery**, and I'm currently focused on building **intelligent systems powered by AI**, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LLM applications
+- RAG pipelines
+- Multi-agent architectures
+- Data-driven AI products
+
+---
+
+# 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlecloud&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-orange)
+![LLM](https://img.shields.io/badge/LLM-Systems-black)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blueviolet)
+
+Python • SQL • BigQuery • Machine Learning • LLM Systems • RAG
+
+---
+
+# 🧠 What I'm Building
+
+I’m currently focused on building **AI-powered data systems**, including:
+
+- Natural language interfaces for analytics
+- LLM-powered data assistants
+- Multi-agent systems for data exploration
+- Intelligent analytics platforms
+
+
+---
+
+# 📚 Currently Learning
+
+- AI Engineering
+- Intelligent systems architecture
+- Production-grade LLM systems
+- AI system design and orchestration
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+# 🔭 Interests
+
+AI Systems • Data Platforms • Intelligent Automation • LLM Applications
+
+---
+
+⭐ Always interested in building **systems that turn data into intelligence**.
