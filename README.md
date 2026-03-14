@@ -1,4 +1,4 @@
-# Hi, I'm Igor Adriano 👋
+# Hi, I'm Igor Rodrigues 👋
 
 Data Analyst transitioning into **AI Systems Engineering**.
 
